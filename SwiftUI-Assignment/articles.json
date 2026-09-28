@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Where a land ethic blooms",
+    "content": "Forty iron rectangles, each one blunt as a piano key, rotate into a blurring fury that hides the eight-foot-long shaft at the heart of the flail chopper. I am perched atop several tons of iron, with 80 horsepower at my command. This part of farming is straightforward – even a mechanically challenged tree-hugger like me can manage to depress the clutch, shift into second, and ease the throttle forward. The tractor’s tall, deeply treaded tires churn, revolving into a smooth spin. Everything is spinning: fans, belts, alternator, the driveshaft, axles. I don’t understand the mechanism fully, yet the tractor and chopper and I are propelled forward across the knee-high whiskers of a coarsely bearded cornfield.",
+    "imageName": "flower"
+  },
+  {
+    "id": "2",
+    "title": "The bombarding of childhood",
+    "content": "Iam at the airport gate waiting to depart, watching passengers hurry past with rolling suitcases and paper cups of coffee. A small boy sits very still beside his mother. He holds an iPad close to his chest, almost in a cramp, clutching the screen as if it might otherwise run away. I hear loud clapping hands and squeaking children’s voices. I lean over and see a cartoon character in green snatch a toy from another character in pink. The pink character begins to cry, tears splashing from enormous eyes like sprinkles.",
+    "imageName": "children"
+  },
+  {
+    "id": "3",
+    "title": "How to offset your brain",
+    "content": "About 50 years ago, the psychologists Amos Tversky and Daniel Kahneman showed that this hesitation is not random. People depart from logic in patterned ways. One of the most durable patterns is loss aversion: our tendency to feel the pain of losing more sharply than the pleasure of an equivalent, or even greater, gain.",
+    "imageName": "brain"
+  },
+  {
+    "id": "4",
+    "title": "Freedom over death",
+    "content": "Assisted dying is now lawful under some circumstances, in jurisdictions affecting at least 300 million people, a remarkable shift given that it was unlawful virtually everywhere in the world only a generation ago. Lively legislative debates about assisted dying are taking place in many societies, including France, Italy, Germany, Ireland and the United Kingdom. Typically, the question at hand for these legislatures is whether to allow medical professionals to help individuals to die, and, if so, under what conditions. The laws under debate remove legal or professional penalties for those medical professionals who help individuals to die.",
+    "imageName": "freedom"
+  },
+  {
+    "id": "5",
+    "title": "Ghosts among the philosophers",
+    "content": "I assume that the reader is familiar with the idea of extra-sensory perception … telepathy, clairvoyance, precognition and psycho-kinesis. These disturbing phenomena seem to deny all our usual scientific ideas … Unfortunately the statistical evidence, at least for telepathy, is overwhelming … Once one has accepted them it does not seem a very big step to believe in ghosts and bogies.’",
+    "imageName": "ghost"
+  },
+  {
+    "id": "6",
+    "title": "The patterns of reality",
+    "content": "Maria is either at home or in the office. She’s not at home. Where is she? You might wonder why I started with such an unpuzzling puzzle. But in solving it, you already used logic. You reasoned correctly from the premises ‘Maria is either at home or in the office’ and ‘She’s not at home’ to the conclusion ‘Maria is in the office.’ That might not seem like a big deal, but someone who couldn’t make that move would be in trouble. We need logic to put together different pieces of information, sometimes from different sources, and to extract their consequences. By linking together many small steps of logical reasoning, we can solve much harder problems, as in mathematics.",
+    "imageName": "pattern"
+  }
+]

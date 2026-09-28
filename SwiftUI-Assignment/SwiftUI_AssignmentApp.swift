@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_AssignmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FeedNavigationView()
         }
     }
 }
